@@ -10,6 +10,6 @@ applications:
   memory: 256M
   instances: 1
   services:
-  - conversation-tutorial
+  - ACIT-London-Conversation
   env:
     NPM_CONFIG_PRODUCTION: false

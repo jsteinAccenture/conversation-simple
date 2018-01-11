@@ -15,6 +15,13 @@ div {
   line-height: 1.25rem;
 }
 
+.subheader {
+  color:#B5B5B5;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #view-change-button {
   display: inline-block;
   position: absolute;
